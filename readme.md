@@ -2,6 +2,13 @@
 # Focus Timer 
 um projeto de timer usando JavaScript moderno com ES6 modules, estados, variáveis, callback functions e um modo escuro/claro.
 
+Dark mode
+![Captura de tela 2024-05-18 192251](https://github.com/GabrielVRM/FocusTime/assets/95998556/4faa3070-9943-42a3-882f-bdc8505c1933)
+
+Light mode
+![Captura de tela 2024-05-18 192304](https://github.com/GabrielVRM/FocusTime/assets/95998556/d0ccca55-b74f-4547-ad38-99af24aee703)
+
+
 Bibliotecas Externas:
 > https://phosphoricons.com/
 
